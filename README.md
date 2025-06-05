@@ -26,8 +26,8 @@ fetch-user-data/
    ```bash
    git clone https://github.com/pegasus-x/fetch-user-data.git
 2.**Navigate to the folder** 
-    ```bash
-    cd fetch-user-data
+
+     cd fetch-user-data
 3.Open index.html in your browser
 
 🌐 Public API Used
@@ -42,5 +42,5 @@ Disable your internet connection and click "Reload Data" to see the error handli
 ![image](https://github.com/user-attachments/assets/38ff53ed-c42f-409d-aea0-4e5959024b67)(Shows error message when the internet is off)
 
 🧑‍💻 Author
-Rati Ranjan
+Rati Ranjan <br>
 GitHub: @pegasus-x
