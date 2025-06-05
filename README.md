@@ -1,4 +1,4 @@
-# Fetch User Data App 🚀
+# Fetch User Data Site 🚀
 
 ## 📌 Overview
 This project demonstrates how to use the **JavaScript Fetch API** to retrieve and display user data from a public API. The application fetches data from [JSONPlaceholder](https://jsonplaceholder.typicode.com/users) and dynamically displays each user's **name**, **email**, and **address**.
