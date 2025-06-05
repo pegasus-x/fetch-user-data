@@ -4,7 +4,7 @@
 This project demonstrates how to use the **JavaScript Fetch API** to retrieve and display user data from a public API. The application fetches data from [JSONPlaceholder](https://jsonplaceholder.typicode.com/users) and dynamically displays each user's **name**, **email**, and **address**.
 
 ## 🔗 Live Demo
-👉 [Click here to view the live app](https://pegasus-x.github.io/fetch-user-data/)
+👉 [https://pegasus-x.github.io/fetch-user-data/]
 
 ## 💡 Features
 - 🔄 Fetches data using the **Fetch API**
